@@ -2,7 +2,7 @@
   "name": "deploytest",
   "version": "1.0.0",
   "engines": {
-    "node": "16.16.0"
+    "node": "20.9.0"
   },
   "description": "for testing deployment first time",
   "main": "index.js",
